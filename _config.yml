@@ -3,8 +3,8 @@ title:       PansFortress
 email:       JasonRichardPan@gmail.com
 author:      Jason Pan
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         ""
+baseurl:     "http://pansfortress.github.io"
+url:         "http://pansfortress.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
