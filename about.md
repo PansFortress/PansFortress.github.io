@@ -5,6 +5,12 @@ permalink: /about/
 tags: about
 ---
 
-Mauris sed vulputate turpis. Sed sollicitudin risus nec laoreet pulvinar. Pellentesque auctor nibh id erat aliquam laoreet. Proin tempus pharetra scelerisque. Quisque vestibulum ante dui, id cursus lectus maximus vitae. Nam tortor orci, convallis at mi sed, ornare laoreet mauris. Praesent congue imperdiet neque, non auctor diam dapibus nec.
+My name is Jason. I live in New York City in a small apartment with my beautiful and supportive girlfriend surrounded by a well organized collection of board games.
 
-Aliquam erat volutpat. Donec placerat tempus lacinia. Mauris fringilla feugiat libero, ut sodales sem tincidunt luctus. Vivamus ante justo, laoreet sit amet dignissim id, fermentum nec lectus. Nam vitae dui pharetra, porta quam ac, gravida nisl. Phasellus luctus lacus suscipit eleifend egestas. Quisque eget sem eu ante ultricies ultricies id non nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi sit amet placerat lorem, et tincidunt massa. Donec et tellus purus. Aenean quis nulla suscipit, tristique libero et, sollicitudin quam. Etiam dignissim nibh ut scelerisque varius. Vestibulum sed sapien quis sapien iaculis pulvinar. Praesent a nisl hendrerit sapien euismod suscipit ut ac mauris.
+In a past life, I had a wonderfully challenging job as a Project Manager for a small startup in the online advertising space which went public and grew its team to something I never could have imagined. I'm now trying to learn the ropes of being a software engineer at one of the world's largest banks hoping to not cause the next global incident.
+
+My first taste of development was in high school building dynamic 2D games in Java SE 6 thanks to the most patient and creative teacher I have ever met, Mr Turner. I then spent some odd years in college taking a lot of theory courses, traversing trees in C++, and not making time for myself for creative projects. As a regretful adult, I'm now attempting to make up for my past sins by trying to re-master simple SQL, UNIX and Java. At the same time I hope to learn more about Python and web frameworks like Flask and DJango. 
+
+This blog is about my love-hate relationship with software development. It will mostly likely be filled with nonsense related to solving simple problems that I spent days or weeks on,   issues only a New Yorker would be upset about, or my latest board game obsession. 
+
+I hope as a reader you're able to enjoy this weird space I've carved out for myself on the internet and find something of value here. Please don't ever hesitate to join the conversation by writing in the comments or dropping me some mail.
