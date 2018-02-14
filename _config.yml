@@ -8,6 +8,7 @@ url:         "http://pansfortress.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - reading_list.md
  #- contact.html
 
 # Google services
@@ -122,7 +123,7 @@ permalink:    pretty
 paginate:     4
 sass:
   style: compressed
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
 # https://github.com/jekyll/jekyll/issues/2938
